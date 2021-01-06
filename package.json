@@ -1,0 +1,11 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "Una genda telefonica para aprender backend",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis-dev508",
+  "license": "ISC"
+}
